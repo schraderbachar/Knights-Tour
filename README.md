@@ -14,4 +14,4 @@ cd into the directory and type `make clean`
 
 run the command `cd "<Full Directory Path here>/" && gcc knights.c -o knights && "<Full Directory Path here>/"knights`
 
-where <Full Directory Path here> is the path of the folder in which the knights.c file is stored
+where "<Full Directory Path here>" is the path of the folder in which the knights.c file is stored
